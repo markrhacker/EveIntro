@@ -5,7 +5,7 @@ Think Excel, but with rocket boostera, for the web world.
 Eve is still under development however you'll experiance the potential and vision of a compelete re-thinking of how we programme and play with our data.
 
 ## Installation
-As Eve is still very much in development, some understanding of developmentq, OS's, shells, Git, etc, system is required. 
+As Eve is still very much in development, some understanding of development, OS's, shells, Git, etc, system is required. 
 Expect bugs, strange things, and pits to fall in, and constant change,
 You'll need Git, node, brew and various other development tools installed.  
 You'll need some knowledge about these things, there is too much layered understanding to cover in this introduction. Yon need to know a little bit of whats under the computers 'hood'. If you get errors go google, you wont find it here. Eve's been developed on Mac, I'm running a Mac.  Therefore if your 'off-piste' you're alone. 
@@ -35,7 +35,8 @@ Point your browser, recommend Chrome, to
 
 ### Ready?
 You should see the home screen something like this - I won't keep repeating myself but, it may look simular or totally different, things are always changing, Enjoy.  If you dont enjoy this - then best check back on **Eve** in a year or so. Either way no more warnings.
-![Eve logo](./home.png)
+![Eve logo](./Home.png)
+
 Once you have this we are ready to meet **Eve**.
 Notice the **Eve** Icon on the top left?  Next is the Eve command bar.  The rest are web like pages and links.  Have a play, when your ready we'll begin.
 
