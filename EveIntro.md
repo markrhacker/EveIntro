@@ -1,5 +1,4 @@
 # Eve ![Eve logo](./favicon.png)
----
 So you've found **Eve**, good choice, you're looking to unleash the power of your computer but to do real work, not simple examples, but with out getting bogged down in lines and lines of code to do even the simplest of things.
 Think Excel, but with rocket boostera, for the web world.  
 Eve is still under development however you'll experiance the potential and vision of a compelete re-thinking of how we programme and play with our data.
