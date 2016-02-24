@@ -71,7 +71,9 @@ Hopefully you'll see Eve starting to take over - you now want to set the values 
 
 ![Eve logo](./engineer.png)
 
-It will also do tables and iamges.
+It will also do tables and imges.
+
+##More about Languge
 
 To be continued...
 
