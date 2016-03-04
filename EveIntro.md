@@ -65,15 +65,15 @@ Eve does not know about this top talent yet! Eve lets you create the page and we
 
 ![Eve logo](./EMS.png)
 
-![Eve logo](./controlls collection.png)
+![Eve logo](./ControllsCollection.png)
 
 ![Eve logo](./engineer.png)
 
-![Eve logo](./Engineer add skills.png)
+![Eve logo](./EngineerAddSkills.png)
 
-![Eve logo](./manager collection.png)
+![Eve logo](./ManagerCollection.png)
 
-![Eve logo](./Project add resource.png)
+![Eve logo](./ProjectAddResource.png)
 
 ![Eve logo](./Projects.png)
 
@@ -98,8 +98,6 @@ Then type:
 `` skill  =``
 
 Hopefully you'll see Eve starting to take over - you now want to set the values and properties. Via the pop up menus it lets you create and modify new properties and relations.  And thats it.  Thats where the power lies.  Create pages however you want, you can then link and relate them, while adding properties.  This can then be searched, sorted, formatted on other pages and so the interlinking continues.
-
-![Eve logo](./engineer.png)
 
 It will also do tables and iamges.
 
