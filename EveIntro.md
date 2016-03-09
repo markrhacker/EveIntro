@@ -62,20 +62,67 @@ In the command line type, at the top, type the engineers name;
 ![Eve logo](./new_page.png)
 Eve does not know about this top talent yet! Eve lets you create the page and we can expand the system by start adding links, referances and properties.
 
+Hit the + key and add a description, via the descriptio tile, click the tick once you're done. 
 
-![Eve logo](./EMS.png)
+Engineers have skills, there are added by Propertie. Again Press the + button and hit the properties files
+![Eve logo](./EngineerAddSkills.png)
 
-![Eve logo](./ControllsCollection.png)
+
+Now the engineers have skills
 
 ![Eve logo](./engineer.png)
 
-![Eve logo](./EngineerAddSkills.png)
+See the Box with the up arrow?  That set that card to be the root card, most to left, to allow you expand and dig further.
 
+Eve now lets us group things together in collections, the grouping depends on what you are doing. For this resource managment system, the EMS, we have  Controls Engineers and managers.  Which are allocated to Projcts
+
+So we create those cards, and we crate a EMS card. The add manager, control and projects, via collections, to the EMS card.
+
+![Eve logo](./EMS.png)
+
+Adding collections to card is easy, click the + again, collection tile and just type the card you want to add to the collection within the card
+
+![Eve logo](./ControllsCollection.png)
+
+This is simple yet powerful, properties and collections allow you to organise your data in many way, that allow you create relations and databases of your data.  Just have a quick thing how best to do it before dving straight in.
+
+The managers card is added in the same way, new card; Manager, add the engineering as a collections.
 ![Eve logo](./ManagerCollection.png)
 
+Now lets add some projects.
+![Eve logo](./Projects.png)
+
+
+Now the clever stuff
 ![Eve logo](./ProjectAddResource.png)
 
-![Eve logo](./Projects.png)
+
+## Serach and query
+Now that we have build the data, which we ready navigate 
+
+### Serach
+Search is simple, just seach for what you want in the rool bar, it will become
+
+
+## REPL
+Eve also has REPL, Read–eval–print loop, system for the more adveture and allows you to driver deeper.
+
+
+
+
+
+                ,'`.          
+             ,'      `.       
+          ,'`.        | `.    
+       ,'      `.     |    `.
+      |`.     ,' |    |     | 
+      |   `.'    |    |     | 
+      |    |     |  ,'`.    | 
+      |    |     |'      `. | 
+       `.  |     `.        ;' 
+          `|,       `.  ,'   
+             `.      ,'      
+                `.,'         
 
 
 
