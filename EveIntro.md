@@ -101,14 +101,19 @@ Now the clever stuff
 Now that we have build the data, which we ready navigate 
 
 ### Serach
-Search is simple, just seach for what you want in the rool bar, it will become
+Search is simple, just seach for what you want in the Eve bar, it will become the root level card. For exmaple
 
+''Andy''
+
+Will Bring the Andy card to the top level. 
+
+### Query
+Eve query lets you do a little more.  It based on 'natural languge' so that you build english like sentances to ask questions about your data.  
 
 ## REPL
 Eve also has REPL, Read–eval–print loop, system for the more adveture and allows you to driver deeper.
 
-
-
+~~~
 
 
                 ,'`.          
@@ -128,25 +133,4 @@ Eve also has REPL, Read–eval–print loop, system for the more adveture and al
 
 
 
----
----
-OLD
----
----
-Just start typing under the name.  You can add a discription about the engineer. Any infromation you like.
-
-It understands _some_ markdown, thereore ```#``` is used to denotes headers, for example
-
-``` ##Attributes ```
-
-However to make things intresting, lets start to add some programmatic data.
-
-Then type:
-`` skill  =``
-
-Hopefully you'll see Eve starting to take over - you now want to set the values and properties. Via the pop up menus it lets you create and modify new properties and relations.  And thats it.  Thats where the power lies.  Create pages however you want, you can then link and relate them, while adding properties.  This can then be searched, sorted, formatted on other pages and so the interlinking continues.
-
-It will also do tables and iamges.
-
-To be continued...
 
