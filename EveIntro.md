@@ -11,7 +11,8 @@ You'll need Git, node, brew and various other development tools installed.
 You'll need some knowledge about these things, there is too much layered understanding to cover in this introduction. Yon need to know a little bit of whats under the computers 'hood'. If you get errors go google, you wont find it here. Eve's been developed on Mac, I'm running a Mac.  Therefore if your 'off-piste' you're alone. 
 
 First grab the lastest code from Git.
-``git clone https://github.com/witheve/Eve.git`
+
+``git clone https://github.com/witheve/Eve.git``
 
 Once you have the git reposity, It's a good idea to keep it up dated.
 From inside the directory:
