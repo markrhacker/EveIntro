@@ -103,17 +103,46 @@ Now that we have build the data, which we ready navigate
 ### Serach
 Search is simple, just seach for what you want in the Eve bar, it will become the root level card. For exmaple
 
-''Andy''
+'''Andy'''
 
 Will Bring the Andy card to the top level. 
 
+Search is fuzzy which means it more like google, it will past capital letter, spaces, underscore etc.
+
+therefore, try '''EMS''' and '''ems'''.  This is nice because it makes Eve human and accessbale due to a little imprecresion.
+
+Deep seach which results in tables, try project start.  Project is a card collection, and start is properties - the search make the connection for you.
+
+![Eve logo](./ProjectStart.png)
+
+That a table generated - which can be made into a card - giving all your project start dates - a range of properties across cards.
+
+
 ### Query
 Eve query lets you do a little more.  It based on 'natural languge' so that you build english like sentances to ask questions about your data.  
+Try some of the following:
+how many controls?
+
+Presents you with nice 
+
+More 'programmitic'
+count control
+
+Give a simple card, with the count.  You can dismiss it, or save (add) it as a card for future referance.
+
+count control amazon
+
+Will count all the control engineers with amazon knowledge.
+
+control amazon lists them - then they are just a click away
+
 
 ## REPL
 Eve also has REPL, Read–eval–print loop, system for the more adveture and allows you to driver deeper.
 
-~~~
+WHICH IS BROKEN AT THE MOMENT :
+
+---
 
 
                 ,'`.          
