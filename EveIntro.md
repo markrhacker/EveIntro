@@ -103,7 +103,7 @@ Now that we have build the data, which we ready navigate
 ### Serach
 Search is simple, just seach for what you want in the Eve bar, it will become the root level card. For exmaple
 
-'''Andy'''
+``Andy``
 
 Will Bring the Andy card to the top level. 
 
@@ -123,21 +123,24 @@ Eve query lets you do a little more.  It based on 'natural languge' so that you 
 
 Try some of the following:
 
-how many controls?
+``how many controls?``
 
-Presents you with nice 
+Presents you with nice table - which you can save as another card 
 
 More 'programmitic'
-count control
+
+``count control``
 
 Give a simple card, with the count.  You can dismiss it, or save (add) it as a card for future referance.
 
-count control amazon
+``count control amazon``
 
 Will count all the control engineers with amazon knowledge.
+So it trys to understand both your cards and propertries, with thoses card.
 
-control amazon lists them - then they are just a click away
+``control amazon`` lists them - then they are just a click away
 
+Think google for your data.
 
 ## REPL
 Eve also has REPL, Read–eval–print loop, system for the more adveture and allows you to driver deeper.
