@@ -109,9 +109,9 @@ Will Bring the Andy card to the top level.
 
 Search is fuzzy which means it more like google, it will past capital letter, spaces, underscore etc.
 
-therefore, try '''EMS''' and '''ems'''.  This is nice because it makes Eve human and accessbale due to a little imprecresion.
+therefore, try ``EMS`` and ``ems``.  This is nice because it makes Eve human and accessbale due to a little imprecresion.
 
-Deep seach which results in tables, try project start.  Project is a card collection, and start is properties - the search make the connection for you.
+Deep seach which results in tables, try ``project start``.  Project is a card collection, and start is properties - the search make the connection for you.
 
 ![Eve logo](./ProjectStart.png)
 
