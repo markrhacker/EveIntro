@@ -120,7 +120,9 @@ That a table generated - which can be made into a card - giving all your project
 
 ### Query
 Eve query lets you do a little more.  It based on 'natural languge' so that you build english like sentances to ask questions about your data.  
+
 Try some of the following:
+
 how many controls?
 
 Presents you with nice 
