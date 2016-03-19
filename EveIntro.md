@@ -11,7 +11,6 @@ You'll need Git, node, brew and various other development tools installed.
 You'll need some knowledge about these things, there is too much layered understanding to cover in this introduction. Yon need to know a little bit of whats under the computers 'hood'. If you get errors go google, you wont find it here. Eve's been developed on Mac, I'm running a Mac.  Therefore if your 'off-piste' you're alone. 
 
 First grab the lastest code from Git.
-
 ``git clone https://github.com/witheve/Eve.git``
 
 Once you have the git reposity, It's a good idea to keep it up dated.
@@ -100,11 +99,28 @@ Now lets add some projects.
 Now the clever stuff
 ![Eve logo](./ProjectAddResource.png)
 
+You simple add the engineering card, Andy into the project. Collection
+
+You can building and links cards together into collections.  The collection can be however the data is needed.  The collection are simply created by ``+`` tthen click on collection tile.  Just type card (or collection -nice) that you want to link.  This quickly makes complex webs of data that are simple to easy to naviagte and are always in contect. Andy is a engineer, whos in controls, who on the TJX project.
+
+You can add properties - anything that make sence - to a card.  They can then be used in more powerful way, as we'll see with search and query.
+
+### Addd Images and Descriptions
+
+Once you started added cards you may want to build upon them.  Eve lets you add text descriptions and images.
+
+try exploring the planets again.
+
+Adding a description is easy, ``+`` then click on Description tile.  In the text add what you like, click the tick.
+
+Images (due to web sercurity issues) need to hosted somewhere, but again are added  ``+``, images.  Copy the URL, click-the-tick.
+
+Hosting images can be a pain <roadmap> I use github, add a annoying step in an otherwise simple process.
 
 ## Serach and query
 Now that we have build the data, which we ready navigate 
 
-### Serach
+### Search
 Search is simple, just seach for what you want in the Eve bar, it will become the root level card. For exmaple
 
 ``Andy``
