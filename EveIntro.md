@@ -1,12 +1,12 @@
 # Eve ![Eve logo](./favicon.png)
 ---
 So you've found **Eve**, good choice, you're looking to unleash the power of your computer but to do real work, not simple examples, but with out getting bogged down in lines and lines of code to do even the simplest of things.
-Think Excel, but with rocket boostera, for the web world.  
+Think Excel, but with rocket boosters, for the web world.  
 Eve is still under development however you'll experiance the potential and vision of a compelete re-thinking of how we programme and play with our data.
 
 ## Installation
-As Eve is still very much in development, some understanding of developmentq, OS's, shells, Git, etc, system is required. 
-Expect bugs, strange things, and pits to fall in, and constant change,
+As Eve is still very much in development, some understanding of development; OS's, shells, Git, etc, system is required. 
+Expect bugs, strange things, and pits to fall into, and constant change,
 You'll need Git, node, brew and various other development tools installed.  
 You'll need some knowledge about these things, there is too much layered understanding to cover in this introduction. Yon need to know a little bit of whats under the computers 'hood'. If you get errors go google, you wont find it here. Eve's been developed on Mac, I'm running a Mac.  Therefore if your 'off-piste' you're alone. 
 
