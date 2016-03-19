@@ -11,6 +11,7 @@ You'll need Git, node, brew and various other development tools installed.
 You'll need some knowledge about these things, there is too much layered understanding to cover in this introduction. Yon need to know a little bit of whats under the computers 'hood'. If you get errors go google, you wont find it here. Eve's been developed on Mac, I'm running a Mac.  Therefore if your 'off-piste' you're alone. 
 
 First grab the lastest code from Git.
+
 ``git clone https://github.com/witheve/Eve.git``
 
 Once you have the git reposity, It's a good idea to keep it up dated.
@@ -20,9 +21,12 @@ From inside the directory:
 
 Do this regualary - keeps things intresting and up to date.
 
+
 Now install **Eve**. Again from the Eve directory
 
 ``sudo npm install``
+
+I found that I had to used 'sudo' to allow Eve is work due to write permissions for various folders.
 
 This will take some time to compile and to get whats its needs.
 
@@ -34,6 +38,7 @@ Point your browser, recommend Chrome, to
 ``http://localhost:3000/``
 
 or there is demo online
+
 ``http://early.witheve.com/``
 
 ### Ready?
@@ -127,9 +132,9 @@ Search is simple, just seach for what you want in the Eve bar, it will become th
 
 Will Bring the Andy card to the top level. 
 
-Search is fuzzy which means it more like google, it will past capital letter, spaces, underscore etc.
+Search is fuzzy which means it more like google, it will look past capital letter, spaces, underscore etc.
 
-therefore, try ``EMS`` and ``ems``.  This is nice because it makes Eve human and accessbale due to a little imprecresion.
+Therefore, try ``EMS`` and ``ems``.  This is nice because it makes Eve human and accessbale due to a little imprecresion.
 
 Deep seach which results in tables, try ``project start``.  Project is a card collection, and start is properties - the search make the connection for you.
 
@@ -163,7 +168,9 @@ So it trys to understand both your cards and propertries, with thoses card.
 Think google for your data.
 
 ## REPL
-Eve also has REPL, Read–eval–print loop, system for the more adveture and allows you to driver deeper.
+Eve also has REPL, Read–eval–print loop, system for the brave and allows you to driver deeper.
+
+``sudo npm run dev`` 
 
 WHICH IS BROKEN AT THE MOMENT :
 
