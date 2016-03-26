@@ -169,7 +169,7 @@ Think google for your data.
 ## REPL
 Eve also has REPL, Read–eval–print-loop, system for the brave and allows you to venture deeper.
 
-``sudo npm run dev`` 
+``sudo npm run repl`` 
 
 WHICH IS BROKEN AT THE MOMENT :-(
 
